@@ -1,2 +1,2 @@
-# auth-server
-Infinite Auth Server
+# auth-service
+Infinite Auth Service
