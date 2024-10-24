@@ -1,0 +1,1 @@
+FROM tomcat:10.1.31-jre17-temurin
